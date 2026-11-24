@@ -1,0 +1,249 @@
+[
+ {
+  "id": "linear-slot-diffusers",
+  "name": "Linear Slot Diffusers",
+  "category": "Diffusers",
+  "application": "Ceiling",
+  "purpose": "Supply / return",
+  "image": "linear-slot-diffusers.png",
+  "tag": "Architectural",
+  "description": "A refined linear detail for contemporary ceilings and coordinated air distribution.",
+  "detail": "Specify the slot arrangement, overall length, finish and plenum requirements for review with our factory team.",
+  "options": [
+   "Slot arrangement",
+   "Overall length",
+   "Plenum requirements",
+   "Finish and mounting detail"
+  ],
+  "slug": "linear-slot-diffusers",
+  "onOldSite": true
+ },
+ {
+  "id": "ceiling-diffusers",
+  "name": "Ceiling Diffusers",
+  "category": "Diffusers",
+  "application": "Ceiling",
+  "purpose": "Supply",
+  "image": "ceiling-diffusers.png",
+  "tag": "Air distribution",
+  "description": "A clean ceiling finish for distributing supply air into the room.",
+  "detail": "Share the face size, neck size, air pattern and installation requirements so the correct configuration can be confirmed.",
+  "options": [
+   "Face and neck dimensions",
+   "Air pattern",
+   "Ceiling interface",
+   "Finish"
+  ],
+  "slug": "ceiling-diffusers",
+  "onOldSite": true
+ },
+ {
+  "id": "sand-trap-louvers",
+  "name": "Sand Trap Louvers",
+  "category": "Louvers",
+  "application": "External",
+  "purpose": "Intake",
+  "image": "sand-trap-louvers.png",
+  "tag": "Ventilation",
+  "description": "An external intake solution for projects with sand separation requirements.",
+  "detail": "Discuss face dimensions, frame depth, installation opening and project performance requirements before selection.",
+  "options": [
+   "Face dimensions",
+   "Frame and fixing detail",
+   "Required free area",
+   "Finish"
+  ],
+  "slug": "sand-trap-louvers",
+  "onOldSite": true
+ },
+ {
+  "id": "linear-bar-grilles",
+  "name": "Linear Bar Grilles",
+  "category": "Grilles",
+  "application": "Wall / ceiling",
+  "purpose": "Supply / return",
+  "image": "linear-bar-grilles.png",
+  "tag": "Architectural",
+  "description": "Precise, continuous lines for supply and return air openings.",
+  "detail": "Coordinate the bar profile, frame style, opening dimensions and mounting arrangement with your architectural detail.",
+  "options": [
+   "Bar profile",
+   "Frame arrangement",
+   "Opening dimensions",
+   "Mounting requirements"
+  ],
+  "slug": "linear-bar-grilles",
+  "onOldSite": true
+ },
+ {
+  "id": "jet-diffusers",
+  "name": "Jet Diffusers",
+  "category": "Diffusers",
+  "application": "Wall / ceiling",
+  "purpose": "Supply",
+  "image": "jet-diffusers.png",
+  "tag": "Directional",
+  "description": "Directional air outlets with a distinctive circular profile.",
+  "detail": "Provide the application, duct connection and airflow requirements for a project-specific selection discussion.",
+  "options": [
+   "Connection size",
+   "Mounting detail",
+   "Directional requirements",
+   "Finish"
+  ],
+  "slug": "jet-diffusers",
+  "onOldSite": false
+ },
+ {
+  "id": "volume-control-dampers",
+  "name": "Volume Control Dampers",
+  "category": "Dampers",
+  "application": "Duct",
+  "purpose": "Control",
+  "image": "volume-control-dampers.png",
+  "tag": "Air control",
+  "description": "Duct-mounted components for regulating ventilation airflow.",
+  "detail": "Confirm duct dimensions, blade arrangement and manual or actuator requirements with the factory. No fire or smoke rating is implied.",
+  "options": [
+   "Duct dimensions",
+   "Blade arrangement",
+   "Operation requirements",
+   "Connection detail"
+  ],
+  "slug": "volume-control-dampers",
+  "onOldSite": true
+ },
+ {
+  "id": "disc-valves",
+  "name": "Disc Valves",
+  "category": "Diffusers",
+  "application": "Ceiling",
+  "purpose": "Exhaust / ventilation",
+  "image": "disc-valves.png",
+  "tag": "Ventilation",
+  "description": "Compact circular terminals for ventilation and exhaust openings.",
+  "detail": "Share the connection diameter, intended use and ceiling interface for confirmation before ordering.",
+  "options": [
+   "Connection diameter",
+   "Intended air duty",
+   "Ceiling interface",
+   "Finish"
+  ],
+  "slug": "disc-valves",
+  "onOldSite": true
+ },
+ {
+  "id": "external-louvers",
+  "name": "External Louvers",
+  "category": "Louvers",
+  "application": "External",
+  "purpose": "Intake / exhaust",
+  "image": "external-louvers.png",
+  "tag": "External ventilation",
+  "description": "A coordinated architectural finish for external ventilation openings.",
+  "detail": "Confirm opening size, blade arrangement, frame depth and any screen requirements for the application.",
+  "options": [
+   "Opening size",
+   "Blade arrangement",
+   "Frame depth",
+   "Screen requirements"
+  ],
+  "slug": "external-louvers",
+  "onOldSite": true
+ },
+ {
+  "id": "round-ceiling-diffusers",
+  "name": "Round Ceiling Diffusers",
+  "category": "Diffusers",
+  "application": "Ceiling",
+  "purpose": "Supply",
+  "image": "round-ceiling-diffusers.png",
+  "tag": "Circular design",
+  "description": "A circular ceiling outlet for room air distribution.",
+  "detail": "Specify the face and connection diameters, mounting conditions and required air duty for review.",
+  "options": [
+   "Face diameter",
+   "Connection diameter",
+   "Mounting conditions",
+   "Finish"
+  ],
+  "slug": "round-ceiling-diffusers",
+  "onOldSite": true
+ },
+ {
+  "id": "door-transfer-grilles",
+  "name": "Door Transfer Grilles",
+  "category": "Grilles",
+  "application": "Door",
+  "purpose": "Transfer",
+  "image": "door-transfer-grilles.png",
+  "tag": "Air transfer",
+  "description": "A grille solution for transferring air between adjacent spaces.",
+  "detail": "Coordinate the door thickness, cut-out dimensions and appearance requirements before fabrication.",
+  "options": [
+   "Door thickness",
+   "Cut-out size",
+   "Frame arrangement",
+   "Finish"
+  ],
+  "slug": "door-transfer-grilles",
+  "onOldSite": true
+ },
+ {
+  "id": "egg-crate-grilles",
+  "name": "Egg-Crate Grilles",
+  "category": "Grilles",
+  "application": "Wall / ceiling",
+  "purpose": "Return / exhaust",
+  "image": "egg-carate-grilles.png",
+  "tag": "Open grid",
+  "description": "An open-grid face for return and exhaust air applications.",
+  "detail": "Confirm the face dimensions, core and frame arrangement, and any access requirements for your installation.",
+  "options": [
+   "Face dimensions",
+   "Core arrangement",
+   "Frame style",
+   "Access requirements"
+  ],
+  "slug": "egegg-crate-grilles-registers-diffusers",
+  "onOldSite": true
+ },
+ {
+  "id": "flowbar-slot-diffusers",
+  "name": "Flowbar Slot Diffusers",
+  "category": "Diffusers",
+  "application": "Ceiling",
+  "purpose": "Supply / return",
+  "image": "flowbar-slot-diffusers.png",
+  "tag": "Architectural",
+  "description": "A linear airflow solution for coordinated architectural ceiling details.",
+  "detail": "Share the linear dimensions, ceiling junction detail and air distribution requirements for review.",
+  "options": [
+   "Linear dimensions",
+   "Ceiling junction",
+   "Air duty",
+   "Finish"
+  ],
+  "slug": "flowbar-slot-diffusers",
+  "onOldSite": false
+ },
+ {
+  "id": "supply-return-grilles",
+  "name": "Supply & Return Grilles",
+  "category": "Grilles",
+  "application": "Wall / ceiling",
+  "purpose": "Supply / return",
+  "image": "supply-return-air-registers-grilles-and-fresh-air-grilles.png",
+  "tag": "Everyday essentials",
+  "description": "Air grilles and registers for coordinated supply and return openings.",
+  "detail": "Discuss blade arrangement, frame dimensions, opening size and damper requirements with our team.",
+  "options": [
+   "Blade arrangement",
+   "Face and neck dimensions",
+   "Damper requirements",
+   "Mounting detail"
+  ],
+  "slug": "supply-return-air-registers-grilles-and-fresh-air-grilles",
+  "onOldSite": true
+ }
+]

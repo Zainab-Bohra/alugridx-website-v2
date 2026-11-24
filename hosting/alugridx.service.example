@@ -1,0 +1,13 @@
+[Unit]
+Description=AluGridX Website
+After=network.target
+[Service]
+Type=simple
+User=www-data
+WorkingDirectory=/var/www/alugridx
+ExecStart=/usr/bin/node /var/www/alugridx/server.js
+Environment=NODE_ENV=production
+Restart=on-failure
+RestartSec=5
+[Install]
+WantedBy=multi-user.target
